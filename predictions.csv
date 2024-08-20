@@ -1,0 +1,331 @@
+,actual_x,predicted_x,Date,Team_x,Opponent_x,Result_x,new_team_x,actual_y,predicted_y,Team_y,Opponent_y,Result_y,new_team_y
+0,1,1,2024-01-20,Arsenal,Crystal Palace,W,Arsenal,0,0,Crystal Palace,Arsenal,L,Crystal Palace
+1,1,1,2024-01-30,Arsenal,Nott'ham Forest,W,Arsenal,0,0,Nottingham Forest,Arsenal,L,Nottingham Forest
+2,1,0,2024-02-04,Arsenal,Liverpool,W,Arsenal,0,1,Liverpool,Arsenal,L,Liverpool
+3,1,1,2024-02-11,Arsenal,West Ham,W,Arsenal,0,0,West Ham United,Arsenal,L,West Ham
+4,1,1,2024-02-17,Arsenal,Burnley,W,Arsenal,0,0,Burnley,Arsenal,L,Burnley
+5,1,1,2024-02-24,Arsenal,Newcastle Utd,W,Arsenal,0,1,Newcastle United,Arsenal,L,Newcastle Utd
+6,1,1,2024-03-04,Arsenal,Sheffield Utd,W,Arsenal,0,0,Sheffield United,Arsenal,L,Sheffield United
+7,1,1,2024-03-09,Arsenal,Brentford,W,Arsenal,0,0,Brentford,Arsenal,L,Brentford
+8,0,0,2024-03-31,Arsenal,Manchester City,D,Arsenal,0,0,Manchester City,Arsenal,D,Manchester City
+9,1,0,2024-04-03,Arsenal,Luton Town,W,Arsenal,0,0,Luton Town,Arsenal,L,Luton Town
+10,1,0,2024-04-06,Arsenal,Brighton,W,Arsenal,0,0,Brighton and Hove Albion,Arsenal,L,Brighton
+11,0,1,2024-04-14,Arsenal,Aston Villa,L,Arsenal,1,0,Aston Villa,Arsenal,W,Aston Villa
+12,1,1,2024-04-20,Arsenal,Wolves,W,Arsenal,0,0,Wolverhampton Wanderers,Arsenal,L,Wolves
+13,1,1,2024-04-23,Arsenal,Chelsea,W,Arsenal,0,1,Chelsea,Arsenal,L,Chelsea
+14,1,1,2024-04-28,Arsenal,Tottenham,W,Arsenal,0,1,Tottenham Hotspur,Arsenal,L,Tottenham
+15,1,1,2024-05-04,Arsenal,Bournemouth,W,Arsenal,0,1,Bournemouth,Arsenal,L,Bournemouth
+16,1,0,2024-05-12,Arsenal,Manchester Utd,W,Arsenal,0,1,Manchester United,Arsenal,L,Manchester Utd
+17,1,1,2024-05-19,Arsenal,Everton,W,Arsenal,0,0,Everton,Arsenal,L,Everton
+18,0,0,2024-01-14,Aston Villa,Everton,D,Aston Villa,0,0,Everton,Aston Villa,D,Everton
+19,0,0,2024-01-30,Aston Villa,Newcastle Utd,L,Aston Villa,1,0,Newcastle United,Aston Villa,W,Newcastle Utd
+20,1,0,2024-02-03,Aston Villa,Sheffield Utd,W,Aston Villa,0,0,Sheffield United,Aston Villa,L,Sheffield United
+21,0,1,2024-02-11,Aston Villa,Manchester Utd,L,Aston Villa,1,0,Manchester United,Aston Villa,W,Manchester Utd
+22,1,0,2024-02-17,Aston Villa,Fulham,W,Aston Villa,0,1,Fulham,Aston Villa,L,Fulham
+23,1,1,2024-02-24,Aston Villa,Nott'ham Forest,W,Aston Villa,0,0,Nottingham Forest,Aston Villa,L,Nottingham Forest
+24,1,0,2024-03-02,Aston Villa,Luton Town,W,Aston Villa,0,1,Luton Town,Aston Villa,L,Luton Town
+25,0,1,2024-03-10,Aston Villa,Tottenham,L,Aston Villa,1,0,Tottenham Hotspur,Aston Villa,W,Tottenham
+26,0,0,2024-03-17,Aston Villa,West Ham,D,Aston Villa,0,1,West Ham United,Aston Villa,D,West Ham
+27,1,0,2024-03-30,Aston Villa,Wolves,W,Aston Villa,0,0,Wolverhampton Wanderers,Aston Villa,L,Wolves
+28,0,0,2024-04-03,Aston Villa,Manchester City,L,Aston Villa,1,1,Manchester City,Aston Villa,W,Manchester City
+29,0,0,2024-04-06,Aston Villa,Brentford,D,Aston Villa,0,0,Brentford,Aston Villa,D,Brentford
+30,1,0,2024-04-14,Aston Villa,Arsenal,W,Aston Villa,0,1,Arsenal,Aston Villa,L,Arsenal
+31,1,0,2024-04-21,Aston Villa,Bournemouth,W,Aston Villa,0,0,Bournemouth,Aston Villa,L,Bournemouth
+32,0,0,2024-04-27,Aston Villa,Chelsea,D,Aston Villa,0,0,Chelsea,Aston Villa,D,Chelsea
+33,0,0,2024-05-05,Aston Villa,Brighton,L,Aston Villa,1,0,Brighton and Hove Albion,Aston Villa,W,Brighton
+34,0,0,2024-05-13,Aston Villa,Liverpool,D,Aston Villa,0,1,Liverpool,Aston Villa,D,Liverpool
+35,0,0,2024-05-19,Aston Villa,Crystal Palace,L,Aston Villa,1,1,Crystal Palace,Aston Villa,W,Crystal Palace
+36,0,0,2024-01-21,Bournemouth,Liverpool,L,Bournemouth,1,1,Liverpool,Bournemouth,W,Liverpool
+37,0,0,2024-02-01,Bournemouth,West Ham,D,Bournemouth,0,0,West Ham United,Bournemouth,D,West Ham
+38,0,1,2024-02-04,Bournemouth,Nott'ham Forest,D,Bournemouth,0,0,Nottingham Forest,Bournemouth,D,Nottingham Forest
+39,0,0,2024-02-10,Bournemouth,Fulham,L,Bournemouth,1,1,Fulham,Bournemouth,W,Fulham
+40,0,0,2024-02-17,Bournemouth,Newcastle Utd,D,Bournemouth,0,1,Newcastle United,Bournemouth,D,Newcastle Utd
+41,0,0,2024-02-24,Bournemouth,Manchester City,L,Bournemouth,1,1,Manchester City,Bournemouth,W,Manchester City
+42,1,0,2024-03-03,Bournemouth,Burnley,W,Bournemouth,0,0,Burnley,Bournemouth,L,Burnley
+43,0,0,2024-03-09,Bournemouth,Sheffield Utd,D,Bournemouth,0,0,Sheffield United,Bournemouth,D,Sheffield United
+44,1,0,2024-03-13,Bournemouth,Luton Town,W,Bournemouth,0,0,Luton Town,Bournemouth,L,Luton Town
+45,1,1,2024-03-30,Bournemouth,Everton,W,Bournemouth,0,0,Everton,Bournemouth,L,Everton
+46,1,1,2024-04-02,Bournemouth,Crystal Palace,W,Bournemouth,0,0,Crystal Palace,Bournemouth,L,Crystal Palace
+47,0,0,2024-04-06,Bournemouth,Luton Town,L,Bournemouth,1,0,Luton Town,Bournemouth,W,Luton Town
+48,0,0,2024-04-13,Bournemouth,Manchester Utd,D,Bournemouth,0,0,Manchester United,Bournemouth,D,Manchester Utd
+49,0,0,2024-04-21,Bournemouth,Aston Villa,L,Bournemouth,1,0,Aston Villa,Bournemouth,W,Aston Villa
+50,1,0,2024-04-24,Bournemouth,Wolves,W,Bournemouth,0,0,Wolverhampton Wanderers,Bournemouth,L,Wolves
+51,1,1,2024-04-28,Bournemouth,Brighton,W,Bournemouth,0,0,Brighton and Hove Albion,Bournemouth,L,Brighton
+52,0,1,2024-05-04,Bournemouth,Arsenal,L,Bournemouth,1,1,Arsenal,Bournemouth,W,Arsenal
+53,0,1,2024-05-11,Bournemouth,Brentford,L,Bournemouth,1,0,Brentford,Bournemouth,W,Brentford
+54,0,0,2024-05-19,Bournemouth,Chelsea,L,Bournemouth,1,1,Chelsea,Bournemouth,W,Chelsea
+55,1,0,2024-01-20,Brentford,Nott'ham Forest,W,Brentford,0,0,Nottingham Forest,Brentford,L,Nottingham Forest
+56,0,0,2024-01-31,Brentford,Tottenham,L,Brentford,1,0,Tottenham Hotspur,Brentford,W,Tottenham
+57,0,0,2024-02-05,Brentford,Manchester City,L,Brentford,1,0,Manchester City,Brentford,W,Manchester City
+58,1,0,2024-02-10,Brentford,Wolves,W,Brentford,0,1,Wolverhampton Wanderers,Brentford,L,Wolves
+59,0,0,2024-02-17,Brentford,Liverpool,L,Brentford,1,1,Liverpool,Brentford,W,Liverpool
+60,0,0,2024-02-20,Brentford,Manchester City,L,Brentford,1,1,Manchester City,Brentford,W,Manchester City
+61,0,0,2024-02-26,Brentford,West Ham,L,Brentford,1,0,West Ham United,Brentford,W,West Ham
+62,0,0,2024-03-02,Brentford,Chelsea,D,Brentford,0,0,Chelsea,Brentford,D,Chelsea
+63,0,0,2024-03-09,Brentford,Arsenal,L,Brentford,1,1,Arsenal,Brentford,W,Arsenal
+64,0,0,2024-03-16,Brentford,Burnley,L,Brentford,1,0,Burnley,Brentford,W,Burnley
+65,0,0,2024-03-30,Brentford,Manchester Utd,D,Brentford,0,1,Manchester United,Brentford,D,Manchester Utd
+66,0,1,2024-04-03,Brentford,Brighton,D,Brentford,0,0,Brighton and Hove Albion,Brentford,D,Brighton
+67,0,0,2024-04-06,Brentford,Aston Villa,D,Brentford,0,0,Aston Villa,Brentford,D,Aston Villa
+68,1,1,2024-04-13,Brentford,Sheffield Utd,W,Brentford,0,0,Sheffield United,Brentford,L,Sheffield United
+69,1,0,2024-04-20,Brentford,Luton Town,W,Brentford,0,0,Luton Town,Brentford,L,Luton Town
+70,0,1,2024-04-27,Brentford,Everton,L,Brentford,1,0,Everton,Brentford,W,Everton
+71,0,1,2024-05-04,Brentford,Fulham,D,Brentford,0,0,Fulham,Brentford,D,Fulham
+72,1,0,2024-05-11,Brentford,Bournemouth,W,Brentford,0,1,Bournemouth,Brentford,L,Bournemouth
+73,0,0,2024-05-19,Brentford,Newcastle Utd,L,Brentford,1,1,Newcastle United,Brentford,W,Newcastle Utd
+74,0,0,2024-01-02,Brighton and Hove Albion,West Ham,D,Brighton,0,1,West Ham United,Brighton,D,West Ham
+75,0,1,2024-01-22,Brighton and Hove Albion,Wolves,D,Brighton,0,0,Wolverhampton Wanderers,Brighton,D,Wolves
+76,0,0,2024-01-30,Brighton and Hove Albion,Luton Town,L,Brighton,1,1,Luton Town,Brighton,W,Luton Town
+77,1,0,2024-02-03,Brighton and Hove Albion,Crystal Palace,W,Brighton,0,0,Crystal Palace,Brighton,L,Crystal Palace
+78,0,0,2024-02-10,Brighton and Hove Albion,Tottenham,L,Brighton,1,1,Tottenham Hotspur,Brighton,W,Tottenham
+79,1,0,2024-02-18,Brighton and Hove Albion,Sheffield Utd,W,Brighton,0,0,Sheffield United,Brighton,L,Sheffield United
+80,0,1,2024-02-24,Brighton and Hove Albion,Everton,D,Brighton,0,0,Everton,Brighton,D,Everton
+81,0,1,2024-03-02,Brighton and Hove Albion,Fulham,L,Brighton,1,1,Fulham,Brighton,W,Fulham
+82,1,1,2024-03-10,Brighton and Hove Albion,Nott'ham Forest,W,Brighton,0,0,Nottingham Forest,Brighton,L,Nottingham Forest
+83,0,0,2024-03-31,Brighton and Hove Albion,Liverpool,L,Brighton,1,1,Liverpool,Brighton,W,Liverpool
+84,0,0,2024-04-03,Brighton and Hove Albion,Brentford,D,Brighton,0,1,Brentford,Brighton,D,Brentford
+85,0,0,2024-04-06,Brighton and Hove Albion,Arsenal,L,Brighton,1,0,Arsenal,Brighton,W,Arsenal
+86,0,1,2024-04-13,Brighton and Hove Albion,Burnley,D,Brighton,0,0,Burnley,Brighton,D,Burnley
+87,0,0,2024-04-25,Brighton and Hove Albion,Manchester City,L,Brighton,1,1,Manchester City,Brighton,W,Manchester City
+88,0,0,2024-04-28,Brighton and Hove Albion,Bournemouth,L,Brighton,1,1,Bournemouth,Brighton,W,Bournemouth
+89,1,0,2024-05-05,Brighton and Hove Albion,Aston Villa,W,Brighton,0,0,Aston Villa,Brighton,L,Aston Villa
+90,0,0,2024-05-11,Brighton and Hove Albion,Newcastle Utd,D,Brighton,0,1,Newcastle United,Brighton,D,Newcastle Utd
+91,0,0,2024-05-15,Brighton and Hove Albion,Chelsea,L,Brighton,1,1,Chelsea,Brighton,W,Chelsea
+92,0,0,2024-05-19,Brighton and Hove Albion,Manchester Utd,L,Brighton,1,0,Manchester United,Brighton,W,Manchester Utd
+93,0,0,2024-01-12,Burnley,Luton Town,D,Burnley,0,0,Luton Town,Burnley,D,Luton Town
+94,0,0,2024-01-31,Burnley,Manchester City,L,Burnley,1,1,Manchester City,Burnley,W,Manchester City
+95,0,0,2024-02-03,Burnley,Fulham,D,Burnley,0,0,Fulham,Burnley,D,Fulham
+96,0,0,2024-02-10,Burnley,Liverpool,L,Burnley,1,1,Liverpool,Burnley,W,Liverpool
+97,0,0,2024-02-17,Burnley,Arsenal,L,Burnley,1,1,Arsenal,Burnley,W,Arsenal
+98,0,0,2024-02-24,Burnley,Crystal Palace,L,Burnley,1,0,Crystal Palace,Burnley,W,Crystal Palace
+99,0,0,2024-03-03,Burnley,Bournemouth,L,Burnley,1,0,Bournemouth,Burnley,W,Bournemouth
+100,0,0,2024-03-10,Burnley,West Ham,D,Burnley,0,0,West Ham United,Burnley,D,West Ham
+101,1,0,2024-03-16,Burnley,Brentford,W,Burnley,0,0,Brentford,Burnley,L,Brentford
+102,0,0,2024-03-30,Burnley,Chelsea,D,Burnley,0,0,Chelsea,Burnley,D,Chelsea
+103,0,0,2024-04-02,Burnley,Wolves,D,Burnley,0,0,Wolverhampton Wanderers,Burnley,D,Wolves
+104,0,0,2024-04-06,Burnley,Everton,L,Burnley,1,1,Everton,Burnley,W,Everton
+105,0,0,2024-04-13,Burnley,Brighton,D,Burnley,0,1,Brighton and Hove Albion,Burnley,D,Brighton
+106,1,0,2024-04-20,Burnley,Sheffield Utd,W,Burnley,0,0,Sheffield United,Burnley,L,Sheffield United
+107,0,0,2024-04-27,Burnley,Manchester Utd,D,Burnley,0,1,Manchester United,Burnley,D,Manchester Utd
+108,0,0,2024-05-04,Burnley,Newcastle Utd,L,Burnley,1,1,Newcastle United,Burnley,W,Newcastle Utd
+109,0,0,2024-05-11,Burnley,Tottenham,L,Burnley,1,0,Tottenham Hotspur,Burnley,W,Tottenham
+110,0,1,2024-05-19,Burnley,Nott'ham Forest,L,Burnley,1,0,Nottingham Forest,Burnley,W,Nottingham Forest
+111,1,0,2024-01-13,Chelsea,Fulham,W,Chelsea,0,0,Fulham,Chelsea,L,Fulham
+112,0,0,2024-01-31,Chelsea,Liverpool,L,Chelsea,1,1,Liverpool,Chelsea,W,Liverpool
+113,0,0,2024-02-04,Chelsea,Wolves,L,Chelsea,1,0,Wolverhampton Wanderers,Chelsea,W,Wolves
+114,1,0,2024-02-12,Chelsea,Crystal Palace,W,Chelsea,0,0,Crystal Palace,Chelsea,L,Crystal Palace
+115,0,0,2024-02-17,Chelsea,Manchester City,D,Chelsea,0,1,Manchester City,Chelsea,D,Manchester City
+116,0,0,2024-03-02,Chelsea,Brentford,D,Chelsea,0,0,Brentford,Chelsea,D,Brentford
+117,1,1,2024-03-11,Chelsea,Newcastle Utd,W,Chelsea,0,0,Newcastle United,Chelsea,L,Newcastle Utd
+118,0,0,2024-03-30,Chelsea,Burnley,D,Chelsea,0,0,Burnley,Chelsea,D,Burnley
+119,1,1,2024-04-04,Chelsea,Manchester Utd,W,Chelsea,0,0,Manchester United,Chelsea,L,Manchester Utd
+120,0,0,2024-04-07,Chelsea,Sheffield Utd,D,Chelsea,0,0,Sheffield United,Chelsea,D,Sheffield United
+121,1,1,2024-04-15,Chelsea,Everton,W,Chelsea,0,0,Everton,Chelsea,L,Everton
+122,0,1,2024-04-23,Chelsea,Arsenal,L,Chelsea,1,1,Arsenal,Chelsea,W,Arsenal
+123,0,0,2024-04-27,Chelsea,Aston Villa,D,Chelsea,0,0,Aston Villa,Chelsea,D,Aston Villa
+124,1,0,2024-05-02,Chelsea,Tottenham,W,Chelsea,0,0,Tottenham Hotspur,Chelsea,L,Tottenham
+125,1,0,2024-05-05,Chelsea,West Ham,W,Chelsea,0,0,West Ham United,Chelsea,L,West Ham
+126,1,1,2024-05-11,Chelsea,Nott'ham Forest,W,Chelsea,0,0,Nottingham Forest,Chelsea,L,Nottingham Forest
+127,1,1,2024-05-15,Chelsea,Brighton,W,Chelsea,0,0,Brighton and Hove Albion,Chelsea,L,Brighton
+128,1,1,2024-05-19,Chelsea,Bournemouth,W,Chelsea,0,0,Bournemouth,Chelsea,L,Bournemouth
+129,0,0,2024-01-20,Crystal Palace,Arsenal,L,Crystal Palace,1,1,Arsenal,Crystal Palace,W,Arsenal
+130,1,0,2024-01-30,Crystal Palace,Sheffield Utd,W,Crystal Palace,0,0,Sheffield United,Crystal Palace,L,Sheffield United
+131,0,0,2024-02-03,Crystal Palace,Brighton,L,Crystal Palace,1,0,Brighton and Hove Albion,Crystal Palace,W,Brighton
+132,0,0,2024-02-12,Crystal Palace,Chelsea,L,Crystal Palace,1,0,Chelsea,Crystal Palace,W,Chelsea
+133,0,0,2024-02-19,Crystal Palace,Everton,D,Crystal Palace,0,0,Everton,Crystal Palace,D,Everton
+134,1,0,2024-02-24,Crystal Palace,Burnley,W,Crystal Palace,0,0,Burnley,Crystal Palace,L,Burnley
+135,0,0,2024-03-02,Crystal Palace,Tottenham,L,Crystal Palace,1,0,Tottenham Hotspur,Crystal Palace,W,Tottenham
+136,0,0,2024-03-09,Crystal Palace,Luton Town,D,Crystal Palace,0,0,Luton Town,Crystal Palace,D,Luton Town
+137,0,0,2024-03-30,Crystal Palace,Nott'ham Forest,D,Crystal Palace,0,0,Nottingham Forest,Crystal Palace,D,Nottingham Forest
+138,0,0,2024-04-02,Crystal Palace,Bournemouth,L,Crystal Palace,1,1,Bournemouth,Crystal Palace,W,Bournemouth
+139,0,0,2024-04-06,Crystal Palace,Manchester City,L,Crystal Palace,1,1,Manchester City,Crystal Palace,W,Manchester City
+140,1,0,2024-04-14,Crystal Palace,Liverpool,W,Crystal Palace,0,1,Liverpool,Crystal Palace,L,Liverpool
+141,1,1,2024-04-21,Crystal Palace,West Ham,W,Crystal Palace,0,0,West Ham United,Crystal Palace,L,West Ham
+142,1,0,2024-04-24,Crystal Palace,Newcastle Utd,W,Crystal Palace,0,1,Newcastle United,Crystal Palace,L,Newcastle Utd
+143,0,1,2024-04-27,Crystal Palace,Fulham,D,Crystal Palace,0,0,Fulham,Crystal Palace,D,Fulham
+144,1,0,2024-05-06,Crystal Palace,Manchester Utd,W,Crystal Palace,0,1,Manchester United,Crystal Palace,L,Manchester Utd
+145,1,0,2024-05-11,Crystal Palace,Wolves,W,Crystal Palace,0,0,Wolverhampton Wanderers,Crystal Palace,L,Wolves
+146,1,1,2024-05-19,Crystal Palace,Aston Villa,W,Crystal Palace,0,0,Aston Villa,Crystal Palace,L,Aston Villa
+147,0,0,2024-01-14,Everton,Aston Villa,D,Everton,0,0,Aston Villa,Everton,D,Aston Villa
+148,0,0,2024-01-30,Everton,Fulham,D,Everton,0,0,Fulham,Everton,D,Fulham
+149,0,1,2024-02-03,Everton,Tottenham,D,Everton,0,0,Tottenham Hotspur,Everton,D,Tottenham
+150,0,0,2024-02-10,Everton,Manchester City,L,Everton,1,1,Manchester City,Everton,W,Manchester City
+151,0,0,2024-02-19,Everton,Crystal Palace,D,Everton,0,0,Crystal Palace,Everton,D,Crystal Palace
+152,0,0,2024-02-24,Everton,Brighton,D,Everton,0,1,Brighton and Hove Albion,Everton,D,Brighton
+153,0,0,2024-03-02,Everton,West Ham,L,Everton,1,0,West Ham United,Everton,W,West Ham
+154,0,0,2024-03-09,Everton,Manchester Utd,L,Everton,1,0,Manchester United,Everton,W,Manchester Utd
+155,0,0,2024-03-30,Everton,Bournemouth,L,Everton,1,1,Bournemouth,Everton,W,Bournemouth
+156,0,0,2024-04-02,Everton,Newcastle Utd,D,Everton,0,1,Newcastle United,Everton,D,Newcastle Utd
+157,1,1,2024-04-06,Everton,Burnley,W,Everton,0,0,Burnley,Everton,L,Burnley
+158,0,0,2024-04-15,Everton,Chelsea,L,Everton,1,1,Chelsea,Everton,W,Chelsea
+159,1,0,2024-04-21,Everton,Nott'ham Forest,W,Everton,0,0,Nottingham Forest,Everton,L,Nottingham Forest
+160,1,0,2024-04-24,Everton,Liverpool,W,Everton,0,1,Liverpool,Everton,L,Liverpool
+161,1,0,2024-04-27,Everton,Brentford,W,Everton,0,1,Brentford,Everton,L,Brentford
+162,0,0,2024-05-03,Everton,Luton Town,D,Everton,0,0,Luton Town,Everton,D,Luton Town
+163,1,1,2024-05-11,Everton,Sheffield Utd,W,Everton,0,0,Sheffield United,Everton,L,Sheffield United
+164,0,0,2024-05-19,Everton,Arsenal,L,Everton,1,1,Arsenal,Everton,W,Arsenal
+165,0,0,2024-01-13,Fulham,Chelsea,L,Fulham,1,0,Chelsea,Fulham,W,Chelsea
+166,0,0,2024-01-30,Fulham,Everton,D,Fulham,0,0,Everton,Fulham,D,Everton
+167,0,0,2024-02-03,Fulham,Burnley,D,Fulham,0,0,Burnley,Fulham,D,Burnley
+168,1,1,2024-02-10,Fulham,Bournemouth,W,Fulham,0,0,Bournemouth,Fulham,L,Bournemouth
+169,0,1,2024-02-17,Fulham,Aston Villa,L,Fulham,1,0,Aston Villa,Fulham,W,Aston Villa
+170,1,0,2024-02-24,Fulham,Manchester Utd,W,Fulham,0,1,Manchester United,Fulham,L,Manchester Utd
+171,1,1,2024-03-02,Fulham,Brighton,W,Fulham,0,1,Brighton and Hove Albion,Fulham,L,Brighton
+172,0,1,2024-03-09,Fulham,Wolves,L,Fulham,1,0,Wolverhampton Wanderers,Fulham,W,Wolves
+173,1,1,2024-03-16,Fulham,Tottenham,W,Fulham,0,0,Tottenham Hotspur,Fulham,L,Tottenham
+174,0,1,2024-03-30,Fulham,Sheffield Utd,D,Fulham,0,0,Sheffield United,Fulham,D,Sheffield United
+175,0,1,2024-04-02,Fulham,Nott'ham Forest,L,Fulham,1,0,Nottingham Forest,Fulham,W,Nottingham Forest
+176,0,1,2024-04-06,Fulham,Newcastle Utd,L,Fulham,1,0,Newcastle United,Fulham,W,Newcastle Utd
+177,1,0,2024-04-14,Fulham,West Ham,W,Fulham,0,0,West Ham United,Fulham,L,West Ham
+178,0,0,2024-04-21,Fulham,Liverpool,L,Fulham,1,0,Liverpool,Fulham,W,Liverpool
+179,0,0,2024-04-27,Fulham,Crystal Palace,D,Fulham,0,1,Crystal Palace,Fulham,D,Crystal Palace
+180,0,0,2024-05-04,Fulham,Brentford,D,Fulham,0,1,Brentford,Fulham,D,Brentford
+181,0,0,2024-05-11,Fulham,Manchester City,L,Fulham,1,1,Manchester City,Fulham,W,Manchester City
+182,1,0,2024-05-19,Fulham,Luton Town,W,Fulham,0,0,Luton Town,Fulham,L,Luton Town
+183,1,1,2024-01-21,Liverpool,Bournemouth,W,Liverpool,0,0,Bournemouth,Liverpool,L,Bournemouth
+184,1,1,2024-01-31,Liverpool,Chelsea,W,Liverpool,0,0,Chelsea,Liverpool,L,Chelsea
+185,0,1,2024-02-04,Liverpool,Arsenal,L,Liverpool,1,0,Arsenal,Liverpool,W,Arsenal
+186,1,1,2024-02-10,Liverpool,Burnley,W,Liverpool,0,0,Burnley,Liverpool,L,Burnley
+187,1,1,2024-02-17,Liverpool,Brentford,W,Liverpool,0,0,Brentford,Liverpool,L,Brentford
+188,1,1,2024-02-21,Liverpool,Luton Town,W,Liverpool,0,0,Luton Town,Liverpool,L,Luton Town
+189,1,1,2024-03-02,Liverpool,Nott'ham Forest,W,Liverpool,0,0,Nottingham Forest,Liverpool,L,Nottingham Forest
+190,0,1,2024-03-10,Liverpool,Manchester City,D,Liverpool,0,0,Manchester City,Liverpool,D,Manchester City
+191,1,1,2024-03-31,Liverpool,Brighton,W,Liverpool,0,0,Brighton and Hove Albion,Liverpool,L,Brighton
+192,1,1,2024-04-04,Liverpool,Sheffield Utd,W,Liverpool,0,0,Sheffield United,Liverpool,L,Sheffield United
+193,0,0,2024-04-07,Liverpool,Manchester Utd,D,Liverpool,0,0,Manchester United,Liverpool,D,Manchester Utd
+194,0,1,2024-04-14,Liverpool,Crystal Palace,L,Liverpool,1,0,Crystal Palace,Liverpool,W,Crystal Palace
+195,1,0,2024-04-21,Liverpool,Fulham,W,Liverpool,0,0,Fulham,Liverpool,L,Fulham
+196,0,1,2024-04-24,Liverpool,Everton,L,Liverpool,1,0,Everton,Liverpool,W,Everton
+197,0,1,2024-04-27,Liverpool,West Ham,D,Liverpool,0,0,West Ham United,Liverpool,D,West Ham
+198,1,1,2024-05-05,Liverpool,Tottenham,W,Liverpool,0,0,Tottenham Hotspur,Liverpool,L,Tottenham
+199,0,1,2024-05-13,Liverpool,Aston Villa,D,Liverpool,0,0,Aston Villa,Liverpool,D,Aston Villa
+200,1,1,2024-05-19,Liverpool,Wolves,W,Liverpool,0,0,Wolverhampton Wanderers,Liverpool,L,Wolves
+201,0,0,2024-01-12,Luton Town,Burnley,D,Luton Town,0,0,Burnley,Luton Town,D,Burnley
+202,1,1,2024-01-30,Luton Town,Brighton,W,Luton Town,0,0,Brighton and Hove Albion,Luton Town,L,Brighton
+203,0,0,2024-02-03,Luton Town,Newcastle Utd,D,Luton Town,0,0,Newcastle United,Luton Town,D,Newcastle Utd
+204,0,1,2024-02-10,Luton Town,Sheffield Utd,L,Luton Town,1,0,Sheffield United,Luton Town,W,Sheffield United
+205,0,0,2024-02-18,Luton Town,Manchester Utd,L,Luton Town,1,0,Manchester United,Luton Town,W,Manchester Utd
+206,0,0,2024-02-21,Luton Town,Liverpool,L,Luton Town,1,1,Liverpool,Luton Town,W,Liverpool
+207,0,1,2024-03-02,Luton Town,Aston Villa,L,Luton Town,1,0,Aston Villa,Luton Town,W,Aston Villa
+208,0,0,2024-03-09,Luton Town,Crystal Palace,D,Luton Town,0,0,Crystal Palace,Luton Town,D,Crystal Palace
+209,0,0,2024-03-13,Luton Town,Bournemouth,L,Luton Town,1,0,Bournemouth,Luton Town,W,Bournemouth
+210,0,1,2024-03-16,Luton Town,Nott'ham Forest,D,Luton Town,0,0,Nottingham Forest,Luton Town,D,Nottingham Forest
+211,0,0,2024-03-30,Luton Town,Tottenham,L,Luton Town,1,0,Tottenham Hotspur,Luton Town,W,Tottenham
+212,0,0,2024-04-03,Luton Town,Arsenal,L,Luton Town,1,0,Arsenal,Luton Town,W,Arsenal
+213,1,0,2024-04-06,Luton Town,Bournemouth,W,Luton Town,0,0,Bournemouth,Luton Town,L,Bournemouth
+214,0,0,2024-04-13,Luton Town,Manchester City,L,Luton Town,1,1,Manchester City,Luton Town,W,Manchester City
+215,0,0,2024-04-20,Luton Town,Brentford,L,Luton Town,1,0,Brentford,Luton Town,W,Brentford
+216,0,0,2024-04-27,Luton Town,Wolves,L,Luton Town,1,0,Wolverhampton Wanderers,Luton Town,W,Wolves
+217,0,0,2024-05-03,Luton Town,Everton,D,Luton Town,0,0,Everton,Luton Town,D,Everton
+218,0,0,2024-05-11,Luton Town,West Ham,L,Luton Town,1,0,West Ham United,Luton Town,W,West Ham
+219,0,0,2024-05-19,Luton Town,Fulham,L,Luton Town,1,0,Fulham,Luton Town,W,Fulham
+220,1,0,2024-01-13,Manchester City,Newcastle Utd,W,Manchester City,0,0,Newcastle United,Manchester City,L,Newcastle Utd
+221,1,1,2024-01-31,Manchester City,Burnley,W,Manchester City,0,0,Burnley,Manchester City,L,Burnley
+222,1,0,2024-02-05,Manchester City,Brentford,W,Manchester City,0,0,Brentford,Manchester City,L,Brentford
+223,1,1,2024-02-10,Manchester City,Everton,W,Manchester City,0,0,Everton,Manchester City,L,Everton
+224,0,1,2024-02-17,Manchester City,Chelsea,D,Manchester City,0,0,Chelsea,Manchester City,D,Chelsea
+225,1,1,2024-02-20,Manchester City,Brentford,W,Manchester City,0,0,Brentford,Manchester City,L,Brentford
+226,1,1,2024-02-24,Manchester City,Bournemouth,W,Manchester City,0,0,Bournemouth,Manchester City,L,Bournemouth
+227,1,0,2024-03-03,Manchester City,Manchester Utd,W,Manchester City,0,0,Manchester United,Manchester City,L,Manchester Utd
+228,0,0,2024-03-10,Manchester City,Liverpool,D,Manchester City,0,1,Liverpool,Manchester City,D,Liverpool
+229,0,0,2024-03-31,Manchester City,Arsenal,D,Manchester City,0,0,Arsenal,Manchester City,D,Arsenal
+230,1,1,2024-04-03,Manchester City,Aston Villa,W,Manchester City,0,0,Aston Villa,Manchester City,L,Aston Villa
+231,1,1,2024-04-06,Manchester City,Crystal Palace,W,Manchester City,0,0,Crystal Palace,Manchester City,L,Crystal Palace
+232,1,1,2024-04-13,Manchester City,Luton Town,W,Manchester City,0,0,Luton Town,Manchester City,L,Luton Town
+233,1,1,2024-04-25,Manchester City,Brighton,W,Manchester City,0,0,Brighton and Hove Albion,Manchester City,L,Brighton
+234,1,1,2024-04-28,Manchester City,Nott'ham Forest,W,Manchester City,0,0,Nottingham Forest,Manchester City,L,Nottingham Forest
+235,1,1,2024-05-04,Manchester City,Wolves,W,Manchester City,0,0,Wolverhampton Wanderers,Manchester City,L,Wolves
+236,1,1,2024-05-11,Manchester City,Fulham,W,Manchester City,0,0,Fulham,Manchester City,L,Fulham
+237,1,1,2024-05-14,Manchester City,Tottenham,W,Manchester City,0,0,Tottenham Hotspur,Manchester City,L,Tottenham
+238,1,1,2024-05-19,Manchester City,West Ham,W,Manchester City,0,0,West Ham United,Manchester City,L,West Ham
+239,0,0,2024-01-14,Manchester United,Tottenham,D,Manchester Utd,0,0,Tottenham Hotspur,Manchester Utd,D,Tottenham
+240,1,0,2024-02-01,Manchester United,Wolves,W,Manchester Utd,0,0,Wolverhampton Wanderers,Manchester Utd,L,Wolves
+241,1,0,2024-02-04,Manchester United,West Ham,W,Manchester Utd,0,0,West Ham United,Manchester Utd,L,West Ham
+242,1,0,2024-02-11,Manchester United,Aston Villa,W,Manchester Utd,0,1,Aston Villa,Manchester Utd,L,Aston Villa
+243,1,0,2024-02-18,Manchester United,Luton Town,W,Manchester Utd,0,0,Luton Town,Manchester Utd,L,Luton Town
+244,0,1,2024-02-24,Manchester United,Fulham,L,Manchester Utd,1,0,Fulham,Manchester Utd,W,Fulham
+245,0,0,2024-03-03,Manchester United,Manchester City,L,Manchester Utd,1,0,Manchester City,Manchester Utd,W,Manchester City
+246,1,0,2024-03-09,Manchester United,Everton,W,Manchester Utd,0,0,Everton,Manchester Utd,L,Everton
+247,0,1,2024-03-30,Manchester United,Brentford,D,Manchester Utd,0,0,Brentford,Manchester Utd,D,Brentford
+248,0,0,2024-04-04,Manchester United,Chelsea,L,Manchester Utd,1,1,Chelsea,Manchester Utd,W,Chelsea
+249,0,0,2024-04-07,Manchester United,Liverpool,D,Manchester Utd,0,0,Liverpool,Manchester Utd,D,Liverpool
+250,0,0,2024-04-13,Manchester United,Bournemouth,D,Manchester Utd,0,0,Bournemouth,Manchester Utd,D,Bournemouth
+251,1,1,2024-04-24,Manchester United,Sheffield Utd,W,Manchester Utd,0,0,Sheffield United,Manchester Utd,L,Sheffield United
+252,0,1,2024-04-27,Manchester United,Burnley,D,Manchester Utd,0,0,Burnley,Manchester Utd,D,Burnley
+253,0,1,2024-05-06,Manchester United,Crystal Palace,L,Manchester Utd,1,0,Crystal Palace,Manchester Utd,W,Crystal Palace
+254,0,1,2024-05-12,Manchester United,Arsenal,L,Manchester Utd,1,0,Arsenal,Manchester Utd,W,Arsenal
+255,1,0,2024-05-15,Manchester United,Newcastle Utd,W,Manchester Utd,0,1,Newcastle United,Manchester Utd,L,Newcastle Utd
+256,1,0,2024-05-19,Manchester United,Brighton,W,Manchester Utd,0,0,Brighton and Hove Albion,Manchester Utd,L,Brighton
+257,0,0,2024-01-13,Newcastle United,Manchester City,L,Newcastle Utd,1,0,Manchester City,Newcastle Utd,W,Manchester City
+258,1,0,2024-01-30,Newcastle United,Aston Villa,W,Newcastle Utd,0,0,Aston Villa,Newcastle Utd,L,Aston Villa
+259,0,0,2024-02-03,Newcastle United,Luton Town,D,Newcastle Utd,0,0,Luton Town,Newcastle Utd,D,Luton Town
+260,1,0,2024-02-10,Newcastle United,Nott'ham Forest,W,Newcastle Utd,0,0,Nottingham Forest,Newcastle Utd,L,Nottingham Forest
+261,0,1,2024-02-17,Newcastle United,Bournemouth,D,Newcastle Utd,0,0,Bournemouth,Newcastle Utd,D,Bournemouth
+262,0,1,2024-02-24,Newcastle United,Arsenal,L,Newcastle Utd,1,1,Arsenal,Newcastle Utd,W,Arsenal
+263,1,0,2024-03-02,Newcastle United,Wolves,W,Newcastle Utd,0,0,Wolverhampton Wanderers,Newcastle Utd,L,Wolves
+264,0,0,2024-03-11,Newcastle United,Chelsea,L,Newcastle Utd,1,1,Chelsea,Newcastle Utd,W,Chelsea
+265,1,0,2024-03-30,Newcastle United,West Ham,W,Newcastle Utd,0,0,West Ham United,Newcastle Utd,L,West Ham
+266,0,1,2024-04-02,Newcastle United,Everton,D,Newcastle Utd,0,0,Everton,Newcastle Utd,D,Everton
+267,1,0,2024-04-06,Newcastle United,Fulham,W,Newcastle Utd,0,1,Fulham,Newcastle Utd,L,Fulham
+268,1,1,2024-04-13,Newcastle United,Tottenham,W,Newcastle Utd,0,0,Tottenham Hotspur,Newcastle Utd,L,Tottenham
+269,0,1,2024-04-24,Newcastle United,Crystal Palace,L,Newcastle Utd,1,0,Crystal Palace,Newcastle Utd,W,Crystal Palace
+270,1,1,2024-04-27,Newcastle United,Sheffield Utd,W,Newcastle Utd,0,0,Sheffield United,Newcastle Utd,L,Sheffield United
+271,1,1,2024-05-04,Newcastle United,Burnley,W,Newcastle Utd,0,0,Burnley,Newcastle Utd,L,Burnley
+272,0,1,2024-05-11,Newcastle United,Brighton,D,Newcastle Utd,0,0,Brighton and Hove Albion,Newcastle Utd,D,Brighton
+273,0,1,2024-05-15,Newcastle United,Manchester Utd,L,Newcastle Utd,1,0,Manchester United,Newcastle Utd,W,Manchester Utd
+274,1,1,2024-05-19,Newcastle United,Brentford,W,Newcastle Utd,0,0,Brentford,Newcastle Utd,L,Brentford
+275,0,0,2024-01-14,Tottenham Hotspur,Manchester Utd,D,Tottenham,0,0,Manchester United,Tottenham,D,Manchester Utd
+276,1,0,2024-01-31,Tottenham Hotspur,Brentford,W,Tottenham,0,0,Brentford,Tottenham,L,Brentford
+277,0,0,2024-02-03,Tottenham Hotspur,Everton,D,Tottenham,0,1,Everton,Tottenham,D,Everton
+278,1,1,2024-02-10,Tottenham Hotspur,Brighton,W,Tottenham,0,0,Brighton and Hove Albion,Tottenham,L,Brighton
+279,0,0,2024-02-17,Tottenham Hotspur,Wolves,L,Tottenham,1,0,Wolverhampton Wanderers,Tottenham,W,Wolves
+280,1,0,2024-03-02,Tottenham Hotspur,Crystal Palace,W,Tottenham,0,0,Crystal Palace,Tottenham,L,Crystal Palace
+281,1,0,2024-03-10,Tottenham Hotspur,Aston Villa,W,Tottenham,0,1,Aston Villa,Tottenham,L,Aston Villa
+282,0,0,2024-03-16,Tottenham Hotspur,Fulham,L,Tottenham,1,1,Fulham,Tottenham,W,Fulham
+283,1,0,2024-03-30,Tottenham Hotspur,Luton Town,W,Tottenham,0,0,Luton Town,Tottenham,L,Luton Town
+284,0,0,2024-04-02,Tottenham Hotspur,West Ham,D,Tottenham,0,1,West Ham United,Tottenham,D,West Ham
+285,1,1,2024-04-07,Tottenham Hotspur,Nott'ham Forest,W,Tottenham,0,0,Nottingham Forest,Tottenham,L,Nottingham Forest
+286,0,0,2024-04-13,Tottenham Hotspur,Newcastle Utd,L,Tottenham,1,1,Newcastle United,Tottenham,W,Newcastle Utd
+287,0,1,2024-04-28,Tottenham Hotspur,Arsenal,L,Tottenham,1,1,Arsenal,Tottenham,W,Arsenal
+288,0,0,2024-05-02,Tottenham Hotspur,Chelsea,L,Tottenham,1,0,Chelsea,Tottenham,W,Chelsea
+289,0,0,2024-05-05,Tottenham Hotspur,Liverpool,L,Tottenham,1,1,Liverpool,Tottenham,W,Liverpool
+290,1,0,2024-05-11,Tottenham Hotspur,Burnley,W,Tottenham,0,0,Burnley,Tottenham,L,Burnley
+291,0,0,2024-05-14,Tottenham Hotspur,Manchester City,L,Tottenham,1,1,Manchester City,Tottenham,W,Manchester City
+292,1,0,2024-05-19,Tottenham Hotspur,Sheffield Utd,W,Tottenham,0,0,Sheffield United,Tottenham,L,Sheffield United
+293,0,1,2024-01-02,West Ham United,Brighton,D,West Ham,0,0,Brighton and Hove Albion,West Ham,D,Brighton
+294,0,1,2024-01-21,West Ham United,Sheffield Utd,D,West Ham,0,0,Sheffield United,West Ham,D,Sheffield United
+295,0,0,2024-02-01,West Ham United,Bournemouth,D,West Ham,0,0,Bournemouth,West Ham,D,Bournemouth
+296,0,0,2024-02-04,West Ham United,Manchester Utd,L,West Ham,1,0,Manchester United,West Ham,W,Manchester Utd
+297,0,0,2024-02-11,West Ham United,Arsenal,L,West Ham,1,1,Arsenal,West Ham,W,Arsenal
+298,0,0,2024-02-17,West Ham United,Nott'ham Forest,L,West Ham,1,0,Nottingham Forest,West Ham,W,Nottingham Forest
+299,1,0,2024-02-26,West Ham United,Brentford,W,West Ham,0,0,Brentford,West Ham,L,Brentford
+300,1,0,2024-03-02,West Ham United,Everton,W,West Ham,0,0,Everton,West Ham,L,Everton
+301,0,0,2024-03-10,West Ham United,Burnley,D,West Ham,0,0,Burnley,West Ham,D,Burnley
+302,0,1,2024-03-17,West Ham United,Aston Villa,D,West Ham,0,0,Aston Villa,West Ham,D,Aston Villa
+303,0,0,2024-03-30,West Ham United,Newcastle Utd,L,West Ham,1,0,Newcastle United,West Ham,W,Newcastle Utd
+304,0,1,2024-04-02,West Ham United,Tottenham,D,West Ham,0,0,Tottenham Hotspur,West Ham,D,Tottenham
+305,1,0,2024-04-06,West Ham United,Wolves,W,West Ham,0,1,Wolverhampton Wanderers,West Ham,L,Wolves
+306,0,0,2024-04-14,West Ham United,Fulham,L,West Ham,1,0,Fulham,West Ham,W,Fulham
+307,0,0,2024-04-21,West Ham United,Crystal Palace,L,West Ham,1,1,Crystal Palace,West Ham,W,Crystal Palace
+308,0,0,2024-04-27,West Ham United,Liverpool,D,West Ham,0,1,Liverpool,West Ham,D,Liverpool
+309,0,0,2024-05-05,West Ham United,Chelsea,L,West Ham,1,0,Chelsea,West Ham,W,Chelsea
+310,1,0,2024-05-11,West Ham United,Luton Town,W,West Ham,0,0,Luton Town,West Ham,L,Luton Town
+311,0,0,2024-05-19,West Ham United,Manchester City,L,West Ham,1,1,Manchester City,West Ham,W,Manchester City
+312,0,0,2024-01-22,Wolverhampton Wanderers,Brighton,D,Wolves,0,1,Brighton and Hove Albion,Wolves,D,Brighton
+313,0,0,2024-02-01,Wolverhampton Wanderers,Manchester Utd,L,Wolves,1,0,Manchester United,Wolves,W,Manchester Utd
+314,1,0,2024-02-04,Wolverhampton Wanderers,Chelsea,W,Wolves,0,0,Chelsea,Wolves,L,Chelsea
+315,0,1,2024-02-10,Wolverhampton Wanderers,Brentford,L,Wolves,1,0,Brentford,Wolves,W,Brentford
+316,1,0,2024-02-17,Wolverhampton Wanderers,Tottenham,W,Wolves,0,0,Tottenham Hotspur,Wolves,L,Tottenham
+317,1,1,2024-02-25,Wolverhampton Wanderers,Sheffield Utd,W,Wolves,0,0,Sheffield United,Wolves,L,Sheffield United
+318,0,0,2024-03-02,Wolverhampton Wanderers,Newcastle Utd,L,Wolves,1,0,Newcastle United,Wolves,W,Newcastle Utd
+319,1,0,2024-03-09,Wolverhampton Wanderers,Fulham,W,Wolves,0,1,Fulham,Wolves,L,Fulham
+320,0,0,2024-03-30,Wolverhampton Wanderers,Aston Villa,L,Wolves,1,0,Aston Villa,Wolves,W,Aston Villa
+321,0,0,2024-04-02,Wolverhampton Wanderers,Burnley,D,Wolves,0,0,Burnley,Wolves,D,Burnley
+322,0,1,2024-04-06,Wolverhampton Wanderers,West Ham,L,Wolves,1,0,West Ham United,Wolves,W,West Ham
+323,0,0,2024-04-13,Wolverhampton Wanderers,Nott'ham Forest,D,Wolves,0,0,Nottingham Forest,Wolves,D,Nottingham Forest
+324,0,0,2024-04-20,Wolverhampton Wanderers,Arsenal,L,Wolves,1,1,Arsenal,Wolves,W,Arsenal
+325,0,0,2024-04-24,Wolverhampton Wanderers,Bournemouth,L,Wolves,1,0,Bournemouth,Wolves,W,Bournemouth
+326,1,0,2024-04-27,Wolverhampton Wanderers,Luton Town,W,Wolves,0,0,Luton Town,Wolves,L,Luton Town
+327,0,0,2024-05-04,Wolverhampton Wanderers,Manchester City,L,Wolves,1,1,Manchester City,Wolves,W,Manchester City
+328,0,0,2024-05-11,Wolverhampton Wanderers,Crystal Palace,L,Wolves,1,0,Crystal Palace,Wolves,W,Crystal Palace
+329,0,0,2024-05-19,Wolverhampton Wanderers,Liverpool,L,Wolves,1,1,Liverpool,Wolves,W,Liverpool
